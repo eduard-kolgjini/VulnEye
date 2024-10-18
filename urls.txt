@@ -1,0 +1,6 @@
+http://testphp.vulnweb.com
+https://juice-shop.herokuapp.com
+https://google-gruyere.appspot.com
+http://testasp.vulnweb.com
+http://demo.testfire.net
+http://zero.webappsecurity.com
